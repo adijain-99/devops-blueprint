@@ -5,7 +5,7 @@
 ```
 devops-blueprint/
 │
-├── microservices-demo/
+├── microservices-blueprint/
 │   ├── services/
 │   │   ├── user-service/
 │   │   │   ├── app.py
